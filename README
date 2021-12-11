@@ -1,5 +1,3 @@
+# WingPig-MySQL
 
-WingPig::MySQL
-=================================
-
-Write log into MySQL
+`WingPig::MySQL` is bro plugin for write log to mysql database
